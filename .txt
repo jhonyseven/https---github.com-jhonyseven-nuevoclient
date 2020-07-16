@@ -1,0 +1,9 @@
+//para inicializar el servidor de desarrollo y poder ver las cosas en el navegador, en la terminal hay que poner: npm run develop
+
+//node modules que hay que instalar:
+
+gatsby new taezbaez https://github.com/gatsbyjs/gatsby-starter-hello-world (para crear el proyecto. Desde el terminal)
+
+npm install draft-js (para instalar Draft JS)
+npm install --save-dev cross-env (para poder utilizar las variables de entorno, como el playground de GraphQL)
+npm install gatsby-source-filesystem (para instalar el plugin que leerá los archivos locales en src)
