@@ -24,7 +24,7 @@ function BlogPage() {
 
     return (
         <Layout>
-            <h1>Blog</h1>
+            <h1>BLOG</h1>
             <ol>
                 {data.allMarkdownRemark.edges.map((edge) => {
                     return (
